@@ -8,10 +8,10 @@ layout: single
 
 **Where to find Dread's Skyrim Build**
 
-The main version of this guide is on Github Pages. A pure markdown version of the guide is also available and is included with the patches.
+The main version of this guide is on Github Pages. A pure markdown version of the guide is also available in the guides Github repository.
 
-- [Github Pages version of the guide](https://dreadflopp.github.io/dreads_modlist_patches/)
-- [Github markdown (readme) version of the guide](https://github.com/dreadflopp/dreads_modlist_patches/blob/master/README.md)
+- [Github Pages version of the guide](https://dreadflopp.github.io/dreadsskyrimbuild/)
+- [Github markdown (readme) version of the guide](https://github.com/dreadflopp/dreadsskyrimbuild/blob/master/README.md)
 
 Visit the [STEP forums](https://forum.step-project.com/topic/14888-dreads-skyrim-build-a-step-build/) if you have any questions, suggestions or other feedback.
 
@@ -59,13 +59,18 @@ All mods in this build are optional, except for:
 
 ### Github and Changelog
 
-To see a changelog, check the [commit history](https://github.com/dreadflopp/dreads_modlist_patches/commits/master) of the [Github version](https://github.com/dreadflopp/dreads_modlist_patches/blob/master/README.md) of the guide. If you are unfamilliar with Git and Github, read the following section.
+The guide has two changelogs, one for the actual guide and one for the guide patches. To see the changelogs, check the commit history of the guide or the patches:
 
-Git is a system for version control used during software development. A project that is version controlled using git is called a repository. A repository may have different branches, which are different development versions of the software. Branches may be merged, commonly into the master branch. I will only use the master branch. Saving file changes to git is called to commit. Git tracks all commits and lets you revert to previous commits. Github is a cloud based repository. I synchronize my local repository against Github. When users download the repository as a zip-file, it can be installed using Mod Organizer 2's fomod-installer (i.e. how you usually install mods). I am not providing a changelog since the commit history works as a changelog. To see the commit history in Github, make sure you are viewing the code tab and click on xxx commits (where xxx is a number) or click on [this link](https://github.com/dreadflopp/dreads_modlist_patches/commits/master).
+* [Guide changelog](https://github.com/dreadflopp/dreadsskyrimbuild/commits/master)
+* [Patches changelog](https://github.com/dreadflopp/dreads_modlist_patches/commits/master)
+
+ If you are not familiar with Git and Github, read the following section.
+
+Git is a system for version control used during software development. A project that is version controlled using git is called a repository. A repository may have different branches, which are different development versions of the software. Branches may be merged, commonly into the master branch. I will only use the master branch. Saving file changes to git is called to commit. Git tracks all commits and lets you revert to previous commits. Github is a cloud based repository. I synchronize my local repository against Github. When users download the repository as a zip-file, it can be installed using Mod Organizer 2's fomod-installer (i.e. how you usually install mods). I am not providing a changelog since the commit history works as a changelog. To see the commit history in Github, make sure you are viewing the code tab and click on xxx commits (where xxx is a number), or click on the links above.
 
 ### What about Weapons Armor Clothing and Clutter Fixes (WACCF) by Kryptopyr?
 
-WACCF is a great mod that fixes bugs and inconsitencies among weapons, armors, etc. Even though it has the word fixes in its name, it could have been named Weapons Armor Clothing and Clutter *Overhaul*, because it overhauls the weapon and armor stats and progression. To avoid inconsitencies, all mods that add weapons and armors to the game needs to be checked and eventually rebalanced against WACCF. I have decided that isn't something that I want to do, it is just to much work. That said, I still might add it to the guide at a later time. I have had WACCF installed during development and there are unsupported patches for it in the included *old patches* folder.
+WACCF is a great mod that fixes bugs and inconsistencies among weapons, armors, etc. Even though it has the word fixes in its name, it could have been named Weapons Armor Clothing and Clutter *Overhaul*, because it overhauls the weapon and armor stats and progression. To avoid inconsistencies, all mods that add weapons and armors to the game needs to be checked and eventually rebalanced against WACCF. I have decided that isn't something that I want to do, it is just to much work. That said, I still might add it to the guide at a later time. I have had WACCF installed during development and there are unsupported patches for it in the included *old patches* folder.
 
 # Preparations
 #### Game Installation and modding setup
@@ -102,7 +107,7 @@ c:\
 
 ## [Creation Kit](http://download.cdp.bethesda.net/BethesdaNetLauncher_Setup.exe)
 
-The Creation Kit is needed to convert plugins made for Skyrim to work with Skyrim Special Edition. The conversion is very simple and basically just means to open a plugin in the creation kit and resave it. The link above goes to the Bethesda Launcher install file. Installation of the Creation Kit will be done using the Bethesda Launcher.
+The Creation Kit is needed to convert plugins made for Skyrim to work with Skyrim Special Edition. The conversion is very simple and basically just means to open a plugin in the creation kit and re-save it. The link above goes to the Bethesda Launcher install file. Installation of the Creation Kit will be done using the Bethesda Launcher.
 
 1. Download and install the Bethesda.net Launcher
 1. Run the Launcher and sign in (create an account if you don't have one).
@@ -171,11 +176,11 @@ Download the *archive* version and extract into its own subfolder of the tools f
 
 To prevent output ending up in the overwrite folder, mixing with other files you might want to keep track of, it is advised to create empty mod listings in MO2 for these types of files. 
 
-Create a seperator to keep things tidy:
+Create a separator to keep things tidy:
 
 1. Right click in the mods section of Mod Organizer 2.
-1. Select *All Mods/Create Seperator*.
-1. Name the seperator *Output Data*.
+1. Select *All Mods/Create Separator*.
+1. Name the separator *Output Data*.
 
 Create the output data folders:
 
@@ -195,7 +200,7 @@ Repeat the steps, creating the following mod listings:
 * DynDOLOD_Output
 * Occlusion_Data
 
-Some tools can be set to output data to these mod listings while other tools ouput data will have to be manually moved after each run. 
+Some tools can be set to output data to these mod listings while other tools output data will have to be manually moved after each run. 
 
 ### Adding executables
 
@@ -206,7 +211,7 @@ All tools except BethINI should be launched through MO2. MO2 may have auto-detec
 1. Click the Executables button at the top of the main Mod Organizer window.
 1. In the Title field type name of the tool.
 1. In the Binary field either type the path to the tools executable file or browse for it by selecting the ... button (i.e. ..Modding\Tools\[tool-folder]\[tool].exe).
-1. Input arguments in the Argument field. Arguments should be seperated by spaces.
+1. Input arguments in the Argument field. Arguments should be separated by spaces.
 1. Check the Use Application’s Icon for shortcuts box.
 1. Click the Apply button.
 
@@ -255,7 +260,7 @@ Download extract into its own subfolder of the tools folder.
 
 ### Initialization
 
-BethINI needs to be set up to run for the current profile in MO2 and ran to establish solid INIs before beginning the mod installations. To do this:
+BethINI needs to be set up to run for the current profile in MO2 and ran to establish solid INI's before beginning the mod installations. To do this:
 
 1. Close MO2 and run BethINI.
 1. Select Skyrim Special Edition from the game selection box.
@@ -266,7 +271,7 @@ BethINI needs to be set up to run for the current profile in MO2 and ran to esta
     * If the MO path is correct, the INI Path menu will find the user’s profiles in MO2. Select the profile you use in MO.
         * If BethINI does not automatically find the profiles, browse to MO2's Profile folder.
         * For Instance users the profile will be stored in the user's AppData folder (i.e. C:\Users\UserName\AppData\Local\ModOrganizer\SkyrimSE\profiles)
-1. At this time BethINI should restart to grab the correct INIs. Continue to customization.
+1. At this time BethINI should restart to grab the correct INI's. Continue to customization.
 
 ### Customiztion
 
@@ -286,7 +291,7 @@ In the presets section:
 Use the following settings:
 
 * Resolution: set your system resolution
-* Antialiasing: *TAA*
+* Anti-Aliasing: *TAA*
 * Windowed Mode: *On*
 * Borderless: *On*
 * FXAA: *Off*
@@ -332,7 +337,7 @@ Some mods, as well as the official vanilla game, contains plugins (.esp-files) o
 
 ## Converting plugins
 
-Many plugins made for classic Skyrim works without issues with Skyrim Special Edition but the plugin form format (form 43) should be updated to Skyrim SE's form format (form 44). To achieve this, simply open the plugin in the Creation Kit and resave it.
+Many plugins made for classic Skyrim works without issues with Skyrim Special Edition but the plugin form format (form 43) should be updated to Skyrim SE's form format (form 44). To achieve this, simply open the plugin in the Creation Kit and re-save it.
 
 Whenever the guide prompts you to convert a plugin, follow these instructions:
 
@@ -357,7 +362,7 @@ Use SSEEdit to check that no errors were introduced in the plugin during the con
 
 # Cleaning: Cleaning vanilla master files
 
-To remove redundancy and errors in Skyrims master plugins, it is recommended they be cleaned with SSEEdit before modding begins. This ensures maximum stability and compatibility within the modding experience. This section of the guide walks you through three steps; creating an empty mod in MO2 for the cleaned files, cleaning the files and lastly moving the cleaned files to the created empty mod.
+To remove redundancy and errors in Skyrim's master plugins, it is recommended they be cleaned with SSEEdit before modding begins. This ensures maximum stability and compatibility within the modding experience. This section of the guide walks you through three steps; creating an empty mod in MO2 for the cleaned files, cleaning the files and lastly moving the cleaned files to the created empty mod.
 
 ## Create an empty mod
 
@@ -681,7 +686,7 @@ Download and install the optional files:
     * Steel: Steel
     * Steel Plate: Steel Plate
     * Leather: Leather
-    * Hide and Studed: Hide
+    * Hide and Studded: Hide
     * Fur: Fur
     * Elven: Gold
     * Dwarwen: Dwarwen
@@ -696,7 +701,7 @@ Download and install the optional files:
 
 * aMidianBorn book of silence_Creatures
     * Custom
-        * Charrus
+        * Chaurus
 
 * aMidianBorn book of silence_DRAGONBORN DLC
     * Custom
@@ -732,7 +737,7 @@ Download and install the optional files:
 
 ### [Barenziah's Glory SE](http://www.nexusmods.com/skyrimspecialedition/mods/6343)
 
-Recommended intall options:
+Recommended install options:
 
 * Desaturated Crown Texture - 1k
 * Gamwich Jewelrybox Texture - 1k
@@ -887,7 +892,7 @@ Install with the following options:
     * Greatsword Sheats
 * Variants and Patches
     * FrankFamily HD Imperial Armor and Weapons
-    * Keeining with refraction
+    * Keening with refraction
 * Glass
     * Refractive Glass Weapons
 * Stalhrim
@@ -1268,7 +1273,7 @@ Install patches forInstall main file and patches for:
 * Helgen Reborn
 * Moon And Star
 * JK's Skyrim - Towns
-* Patches for Arthmoor's Town add-ons - everything except *Provincial Courier Sevice*
+* Patches for Arthmoor's Town add-ons - everything except *Provincial Courier Service*
 
 ## Audiovisual - Sounds & Music
 
