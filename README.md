@@ -1551,6 +1551,9 @@ Choose *Eyes Mesh Fix* in the installer.
 
 ### [Modern Brawl Bug Fix](http://www.nexusmods.com/skyrimspecialedition/mods/1473)
 
+### [NARC Remade - No Animals Report Crimes for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/17946)
+In the installer, choose *NARC* and do not install any patches. All mods, including Falskaar, will be patched by the guides patches.
+
 ### [Skyrim Landscape and Water Fixes](http://www.nexusmods.com/skyrimspecialedition/mods/26138)
 
 In the installer, choose:
