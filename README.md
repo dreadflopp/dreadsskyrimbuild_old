@@ -1518,8 +1518,6 @@ Install esl version
 
 ### [Closing time](https://www.nexusmods.com/skyrimspecialedition/mods/34169)
 
-### [Critters Ain't Snitches](http://www.nexusmods.com/skyrimspecialedition/mods/15134)
-
 ### [Dragon Stalking Fix](http://www.nexusmods.com/skyrimspecialedition/mods/14060)
 
 ### [Enchantment Reload Fix SE](http://www.nexusmods.com/skyrimspecialedition/mods/21055)
