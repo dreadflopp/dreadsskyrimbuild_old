@@ -2389,7 +2389,7 @@ Deactivate the following mods:
 ### Run TextGen
 
 1. Run TexGen from the MO2 executable drop-down list.
-1. Keep the default output location and and choose one of the follow two options:
+1. Keep the default output location and and choose one of the following two options:
     1. Option 1: Keep the default settings. This is for the average system.
     1. Option 2: Users who have the a bit more performance room, change the *LOD Texture Size* to *512*. This will result in higher resolution LOD textures. 
 1. Once the option has been chosen click Start. This will take ~20 minutes. 
@@ -2463,7 +2463,7 @@ These are suggested settings. It is recommended to tweak these settings yourself
 
 ### Easy Wheel Menu
 
-Under *Available Funstions*, turn off functions for mods not installed in this guide:
+Under *Available Functions*, turn off functions for mods not installed in this guide:
 
 * Dovahkiin's Relax
 * Hearthfire Multi Kid Adoption
