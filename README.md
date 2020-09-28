@@ -1102,6 +1102,9 @@ Recommendation: Rallys Instruments HQ - Version 2 Vanilla Lute
 Install a main file, a LODs file and a Blended Roads patch.
 Recommendation: 2K and 512 for LODs
 
+### [Rally's Riekling Outposts](https://www.nexusmods.com/skyrimspecialedition/mods/34899)
+Recommendation: 2K
+
 ### [Real Wood Textures - Farmhouses (SE)](http://www.nexusmods.com/skyrim/mods/50595)
 Download and Install the Real Wood Textures - Farmhouses No Green Moss Version Optional File.
 
