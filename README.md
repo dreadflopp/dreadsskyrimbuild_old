@@ -826,9 +826,6 @@ Recommendation: 1K
 ### [Designs of the Nords SE](https://www.nexusmods.com/skyrimspecialedition/mods/8724/)
 In the installer, install optionals if that is desired.
 
-### [Detailing the Eldrich - Higher-Res Riekling Architecture](http://www.nexusmods.com/skyrim/mods/46741)
-Recommendation: Higher Res
-
 ### [Dragon Glyphs HD - Fixed](http://www.nexusmods.com/skyrim/mods/27095)
 Recommendation: Dragon Chiseled
 
