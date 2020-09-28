@@ -1105,6 +1105,10 @@ Recommendation: 2K and 512 for LODs
 ### [Rally's Riekling Outposts](https://www.nexusmods.com/skyrimspecialedition/mods/34899)
 Recommendation: 2K
 
+### [Rally's Solstheim Plants](https://www.nexusmods.com/skyrimspecialedition/mods/35081)
+Install a main file, a LODs file and a *Rally's Creep Cluster for Skyrim* file.
+Recommendation: 2K and 512 for LODs
+
 ### [Real Wood Textures - Farmhouses (SE)](http://www.nexusmods.com/skyrim/mods/50595)
 Download and Install the Real Wood Textures - Farmhouses No Green Moss Version Optional File.
 
