@@ -595,6 +595,9 @@ In the installer, choose:
 * Full Install, Brown Tundra
 * Blended Roads
 
+### [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590)
+Recommendation: 2K
+
 ### [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703)
 Recommendation: 2K
 
