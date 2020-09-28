@@ -1097,6 +1097,11 @@ Choose one main file, *Rallys Hooks and Saws* is recommended. Fomod recommendati
 ### [Rally's Instruments HQ](http://www.nexusmods.com/skyrimspecialedition/mods/28193)
 Recommendation: Rallys Instruments HQ - Version 2 Vanilla Lute
 
+
+### [Rally's Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/34292)
+Install a main file, a LODs file and a Blended Roads patch.
+Recommendation: 2K and 512 for LODs
+
 ### [Real Wood Textures - Farmhouses (SE)](http://www.nexusmods.com/skyrim/mods/50595)
 Download and Install the Real Wood Textures - Farmhouses No Green Moss Version Optional File.
 
