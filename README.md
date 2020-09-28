@@ -1109,6 +1109,10 @@ Recommendation: 2K
 Install a main file, a LODs file and a *Rally's Creep Cluster for Skyrim* file.
 Recommendation: 2K and 512 for LODs
 
+### [Rally's Tel Mithryn](https://www.nexusmods.com/skyrimspecialedition/mods/35437)
+Install a main file and a LODs file.
+Recommendation: 2K and 512 for LODs
+
 ### [Real Wood Textures - Farmhouses (SE)](http://www.nexusmods.com/skyrim/mods/50595)
 Download and Install the Real Wood Textures - Farmhouses No Green Moss Version Optional File.
 
