@@ -1480,6 +1480,7 @@ Yes, some Bosmer have antlers.
 Skip this mod if you do not intend to use horns or antlers for your character.
 
 ### [Tempered Skins for Males](http://www.nexusmods.com/skyrimspecialedition/mods/7902)
+Download and install *Tempered Skins for Males - Dressed Version*.
 In the installer you can choose what you like but the following is recommended: A1, B6, C1, D2, E2, no facemarks or scars.
 
 Hide the following files:
