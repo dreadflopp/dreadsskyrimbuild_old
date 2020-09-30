@@ -793,8 +793,8 @@ Recommended install options:
 ### [Better Dynamic Snow SE](http://www.nexusmods.com/skyrimspecialedition/mods/9121)
 In the installer, choose to install SMIM meshes and Snowy Farmhouses. No patches.
 
-### [Better Dynamic Snow in New Worldspaces](http://www.nexusmods.com/skyrimspecialedition/mods/22741)
-Install Better Dynamic Snow in New Areas - ESL. In the installer, chose patches for Falskaar and Wyrmstooth.
+### [Better Dynamic Snow in New Lands](http://www.nexusmods.com/skyrimspecialedition/mods/22741)
+Install Better Dynamic Snow in New Lands. In the installer, chose patches for Falskaar and Wyrmstooth.
 
 ### [BetterFalmerCaveCeilingGlow](http://www.nexusmods.com/skyrimspecialedition/mods/17232)
 
