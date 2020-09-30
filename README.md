@@ -1429,7 +1429,17 @@ Choose *Full Install* and *Low: 1024*
 ### [Bijin Skin UNP and CBBE SE](https://www.nexusmods.com/skyrimspecialedition/mods/20078)
 *NSFW warning*
 
-Install *Bijin Skin CBBE*. Choose default 2K options in the installer.
+Install *Bijin Skin CBBE*. In the installer, choose:
+* Body Diffuse Map: 2K - Shaved
+* Body Normal Maps: Default
+* Head Diffuse: 2K Realistic
+* Vampire Head Diffuse: 2K Realistic
+* Nord Head Normal Map: Keep Default
+* Vampire Head Normal Map: Keep Default
+* Specular Maps: 2K - Default
+* Subsurface Maps: Default
+* Makeup: No need (the makeup from *Vanilla Makeup HD* is used)
+* Cheek type: Pretty
 
 ### [Brows](http://www.nexusmods.com/skyrimspecialedition/mods/1062)
 Choose *Full Install* and *Low: 512*
