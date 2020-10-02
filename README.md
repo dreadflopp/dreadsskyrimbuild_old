@@ -804,9 +804,6 @@ Choose whatever options you like, desaturated books are recommended.
 ### [Book Covers Skyrim - Lost Library (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/902)
 Choose whatever options you like, desaturated books are recommended.
 
-### [CleverCharff's Photorealistic Ash Pile](http://www.nexusmods.com/skyrimspecialedition/mods/32720)
-Install 2K option without bones.
-
 ### [Dark Brotherhood Tenets Restored (SE)](http://www.nexusmods.com/skyrim/mods/31087)
 Recommendation: 1K
 
