@@ -1538,8 +1538,6 @@ In the installer, choose the following:
 ### [Butterflies Unchained](http://www.nexusmods.com/skyrimspecialedition/mods/29538)
 Install esl version
 
-### [Closing time](https://www.nexusmods.com/skyrimspecialedition/mods/34169)
-
 ### [Dragon Stalking Fix](http://www.nexusmods.com/skyrimspecialedition/mods/14060)
 
 ### [Enchantment Reload Fix SE](http://www.nexusmods.com/skyrimspecialedition/mods/21055)
