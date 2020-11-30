@@ -1209,7 +1209,7 @@ Recommendation: 2K
 Install selecting the Skin, clutter without sounds option. 
 
 ### [Skygazer Moons SSE](http://www.nexusmods.com/skyrimspecialedition/mods/32057)
-The *Glow* version (1.2) has some issues which should be fixed in later versions. For now, use the *No Glow* version
+Choose either one of the two versions. The glow version might be too bright for ENB users.
 
 ### [Skyrim Redesigned WIP (SE)](http://www.nexusmods.com/skyrim/mods/8954)
 Download and install the FOMOD Version and install using the STEP option. 
