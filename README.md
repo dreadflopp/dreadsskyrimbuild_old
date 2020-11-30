@@ -869,7 +869,7 @@ Install using the following options:
 Download and install the lite version
 
 ### [ETHEREAL CLOUDS - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/2393)
-Recommendation: 1K
+Recommendation: 2K
 
 ### [ETHEREAL COSMOS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5728)
 The vivid version is recommended
