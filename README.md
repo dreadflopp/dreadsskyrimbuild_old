@@ -1741,7 +1741,7 @@ Install the main file and the following optional files:
 ### [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411)
 
 ### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
-Install the main file and the Survival patch. Do not install the Audio Overhaul Skyrim patch.
+Install the main file
 
 ### [Thunderchild - Epic Shouts and Immersion](http://www.nexusmods.com/skyrimspecialedition/mods/1460)
 
