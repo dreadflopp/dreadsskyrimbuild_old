@@ -99,8 +99,8 @@ c:\
 **Common folders referred to in this guide**
 
 * Tools folder: c:\Modding\Tools\
-* Main game folder: c:\Modding\Tools\Steam\Steamapps\common\Skyrim Special Edition
-* Data folder: c:\Modding\Tools\Steam\Steamapps\common\Skyrim Special Edition\Data
+* Main game folder: c:\Modding\Steam\Steamapps\common\Skyrim Special Edition
+* Data folder: c:\Modding\Steam\Steamapps\common\Skyrim Special Edition\Data
 
 # Tools
 #### Tool Installation and setup
