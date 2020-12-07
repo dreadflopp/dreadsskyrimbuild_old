@@ -2103,6 +2103,9 @@ The installer auto detects which mods you have installed and automatically choss
 ### [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)
 The installer will automatically choose the correct patches to use.
 
+### [Misc. College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653)
+Use the default options in the installer. The installer will automatically choose the correct patches to use.
+
 ### [Lanterns Of Skyrim II](http://www.nexusmods.com/skyrimspecialedition/mods/30817)
 In the installer, choose no addons. Choose *the LoS II - SMIM patch* in the installer. The installer will automatically select all other patches you need.
 
