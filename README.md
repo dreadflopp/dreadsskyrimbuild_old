@@ -1421,21 +1421,6 @@ Install the main file
 ### [Beards](http://www.nexusmods.com/skyrimspecialedition/mods/1067)
 Choose *Full Install* and *Low: 1024*
 
-### [Bijin Skin UNP and CBBE SE](https://www.nexusmods.com/skyrimspecialedition/mods/20078)
-*NSFW warning*
-
-Install *Bijin Skin CBBE*. In the installer, choose:
-* Body Diffuse Map: 2K - Shaved
-* Body Normal Maps: Default
-* Head Diffuse: 2K Realistic
-* Vampire Head Diffuse: 2K Realistic
-* Nord Head Normal Map: Keep Default
-* Vampire Head Normal Map: Keep Default
-* Specular Maps: 2K - Default
-* Subsurface Maps: Default
-* Makeup: No need (the makeup from *Vanilla Makeup HD* is used)
-* Cheek type: Pretty
-
 ### [Brows](http://www.nexusmods.com/skyrimspecialedition/mods/1062)
 Choose *Full Install* and *Low: 512*
 
@@ -1483,6 +1468,12 @@ Yes, some Bosmer have antlers.
 *"It is also common among the Bosmer to wear decorative antlers on their foreheads, although rarely, individuals with real, magically-grown antlers can also be encountered."* [source](https://en.uesp.net/wiki/Lore:Bosmer)
 
 Skip this mod if you do not intend to use horns or antlers for your character.
+
+### [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
+*NSFW warning* for the nexus page and for the intsller. No nude options will be used or will be overwritten.
+
+Download and install *Tempered Skins for Females CBBE*.
+In the installer you can choose what you like but the following is recommended: B9, C2, D2, E2, F1.
 
 ### [Tempered Skins for Males](http://www.nexusmods.com/skyrimspecialedition/mods/7902)
 Download and install *Tempered Skins for Males - Dressed Version*.
