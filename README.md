@@ -1270,9 +1270,9 @@ Download and install *Enhanced Vanilla Trees SE - Custom Large Trees*. In the in
 
 Download and install *Enhanced Vanilla Trees SE - Alternative Trees*. In the installer, choose:
 
-* Enhanced Vanilla Meshes
-* Custom Trees (large)
 * Realistic Aspen Trees
+* Large Trees
+
 
 ### [Alpine Forest of Whiterun Valley](https://www.nexusmods.com/skyrimspecialedition/mods/18866)
 
