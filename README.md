@@ -1665,7 +1665,7 @@ Do not activate this mod yet. Wait until you have left the first cell of Alterna
 
 ### [Growl - Werebeasts of Skyrim](http://www.nexusmods.com/skyrimspecialedition/mods/31245)
 
-### [Sacrosanct - Vampires of Skyrim](http://www.nexusmods.com/skyrimspecialedition/mods/3928)
+### [Sacrilege - Minimalistic Vampires of Skyrim](http://www.nexusmods.com/skyrimspecialedition/mods/42408)
 
 ## Gameplay - Crafting
 
