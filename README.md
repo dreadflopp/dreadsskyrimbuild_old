@@ -2213,16 +2213,6 @@ Only use this mod if you use the Creation Club Survival Mode.
 
 In the installer, choose the default option. The installer will identify the mods you use.
 
-### [Useless Patches Collection](https://www.nexusmods.com/skyrimspecialedition/mods/27667)
-In the installer, choose to install nothing except:
-
-* Better Dynamic Snow Patches
-    * Cutting Room Floor
-    * Helarchen Creek
-    * Interesting NPCs
-    * Lucien - Fully Voiced Follower
-    * JK's Skyrim
-
 ### [Dread's modlist patches](https://github.com/dreadflopp/dreads_modlist_patches/archive/master.zip)
 
 To download, click the link above or download from Github by clicking the button *Clone or download* and choose *download zip*.
