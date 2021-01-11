@@ -789,7 +789,11 @@ Recommended install options:
 ### [Better Dynamic Ash SE](http://www.nexusmods.com/skyrimspecialedition/mods/14644)
 
 ### [Better Dynamic Snow SE](http://www.nexusmods.com/skyrimspecialedition/mods/9121)
-In the installer, choose to install SMIM meshes and Snowy Farmhouses. No patches.
+In the installer, choose:
+
+* Plugin Installation: Brighter Snow Materials
+* Projected Diffuse Texture: None
+* Optional Addons: None
 
 ### [Better Dynamic Snow in New Lands](http://www.nexusmods.com/skyrimspecialedition/mods/22741)
 Install Better Dynamic Snow in New Lands. In the installer, chose patches for Falskaar and Wyrmstooth.
@@ -2160,7 +2164,7 @@ Choose
 * Fast Travel Addon
 * Unique Region Names Addon
 
-### [JK's Interiors Patch Collectoin](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 Download and install the main file. In the installer, choose:
 
 * JK's Arcadia's Cauldron
@@ -2174,9 +2178,13 @@ Download and install the main file. In the installer, choose:
 * JK's The Drunken Huntsman
     * Unofficial Skyrim Special Edition Patch
 * Jk's Sleeping Giant Inn
-    * Interesting NPCs
     * AI Overhaul SSE
+    * Interesting NPCs
     * Skyrim Project Optimization
+* JK's Winking Skeever
+    * AI Overhaul
+    * Skyrim Project Optimization
+    * Unofficial Skyrim Special Edition Patch
 
 ### [JS Dragon Claws - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/23833)
 Install:
