@@ -2152,8 +2152,6 @@ Download *Reduced Mist Brightness* and install as a normal mod.
 
 ## Patches
 
-### [Better Dynamic Majestic Mountains](http://www.nexusmods.com/skyrimspecialedition/mods/20102)
-
 ### [College of Winterhold The Missing Apprentices Quest Fix](https://www.nexusmods.com/skyrimspecialedition/mods/6677)
 
 ### [Falskaar - Addons and Patches](http://www.nexusmods.com/skyrimspecialedition/mods/19454)
