@@ -795,9 +795,6 @@ In the installer, choose:
 * Projected Diffuse Texture: None
 * Optional Addons: None
 
-### [Better Dynamic Snow in New Lands](http://www.nexusmods.com/skyrimspecialedition/mods/22741)
-Install Better Dynamic Snow in New Lands. In the installer, chose patches for Falskaar and Wyrmstooth.
-
 ### [BetterFalmerCaveCeilingGlow](http://www.nexusmods.com/skyrimspecialedition/mods/17232)
 
 ### [Book Covers Skyrim (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/901)
