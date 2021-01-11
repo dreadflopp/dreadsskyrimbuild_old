@@ -2088,6 +2088,9 @@ Install main file and the following patches:
 ### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
 Install the main file
 
+### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
+Install the main file and the optional file *JK's The Winking Skeever_alterate start mods patch*.
+
 ### [Smooth Shores](http://www.nexusmods.com/skyrimspecialedition/mods/10624)
 
 ### [Tactical Valtheim SSE](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
