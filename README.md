@@ -13,7 +13,7 @@ The main version of this guide is on Github Pages. A pure markdown version of th
 - [Github Pages version of the guide](https://dreadflopp.github.io/dreadsskyrimbuild/)
 - [Github markdown (readme) version of the guide](https://github.com/dreadflopp/dreadsskyrimbuild/blob/master/README.md)
 
-Visit the [STEP forums](https://forum.step-project.com/topic/14888-dreads-skyrim-build-a-step-build/) if you have any questions, suggestions or other feedback.
+Visit the [STEP forums](https://stepmodifications.org/forum/topic/14888-dreads-skyrim-build-a-step-build/) if you have any questions, suggestions or other feedback.
 
 # Introduction
 #### Welcome to Dread's Skyrim Build
