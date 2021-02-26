@@ -667,6 +667,8 @@ Install the main file using the following options:
 
 ## Models & Textures
 
+### [Alpine Forest of Whiterun Valley](https://www.nexusmods.com/skyrimspecialedition/mods/18866)
+
 ### [Arctic - Frost Effects Redux](http://www.nexusmods.com/skyrimspecialedition/mods/29817)
 
 Install the main file using the following options:
@@ -786,6 +788,8 @@ Recommended install options:
 
 ### [Bellyaches HD Dragon Replacer Pack (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/2636)
 
+### [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306)
+
 ### [Better Dynamic Ash SE](http://www.nexusmods.com/skyrimspecialedition/mods/14644)
 
 ### [Better Dynamic Snow SE](http://www.nexusmods.com/skyrimspecialedition/mods/9121)
@@ -866,6 +870,17 @@ Install using the following options:
 
 ### [Enhanced Blood Textures SE](http://www.nexusmods.com/skyrimspecialedition/mods/2357)
 Download and install the lite version
+
+### [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008)
+Download and install *Enhanced Vanilla Trees SE - Custom Large Trees*. In the installer, choose:
+
+* Enhanced Vanilla Meshes
+* Enhanced Tree Clutter
+
+Download and install *Enhanced Vanilla Trees SE - Alternative Trees*. In the installer, choose:
+
+* Realistic Aspen Trees
+* Large Trees
 
 ### [ETHEREAL CLOUDS - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/2393)
 Recommendation: 2K
@@ -1264,33 +1279,7 @@ Recommendation: 2K-1K
 
 Choose *Full version - skin with a linen fabric cloth* in the installer.
 
-## Audiovisual - Trees & Vegetation
-
-### [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008)
-Download and install *Enhanced Vanilla Trees SE - Custom Large Trees*. In the installer, choose:
-
-* Enhanced Vanilla Meshes
-* Enhanced Tree Clutter
-
-Download and install *Enhanced Vanilla Trees SE - Alternative Trees*. In the installer, choose:
-
-* Realistic Aspen Trees
-* Large Trees
-
-
-### [Alpine Forest of Whiterun Valley](https://www.nexusmods.com/skyrimspecialedition/mods/18866)
-
-### [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306)
-
-### [Landscape Fixes For Grass Mods](http://www.nexusmods.com/skyrimspecialedition/mods/9005)
-Install patches forInstall main file and patches for:
-
-* Helgen Reborn
-* Moon And Star
-* JK's Skyrim - Towns
-* Patches for Arthmoor's Town add-ons - everything except *Provincial Courier Service*
-
-## Audiovisual - Sounds & Music
+## Sounds & Music
 
 ### [Audio Overhaul for Skyrim SE](http://www.nexusmods.com/skyrimspecialedition/mods/12466)
 Do not install any patches.
@@ -2101,6 +2090,14 @@ Install the main file
 
 ### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
 Install the main file and the optional file *JK's The Winking Skeever_alterate start mods patch*.
+
+### [Landscape Fixes For Grass Mods](http://www.nexusmods.com/skyrimspecialedition/mods/9005)
+Install patches forInstall main file and patches for:
+
+* Helgen Reborn
+* Moon And Star
+* JK's Skyrim - Towns
+* Patches for Arthmoor's Town add-ons - everything except *Provincial Courier Service*
 
 ### [Smooth Shores](http://www.nexusmods.com/skyrimspecialedition/mods/10624)
 
