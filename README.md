@@ -2170,18 +2170,33 @@ Choose
 * Unique Region Names Addon
 
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
-Download and install the main file. In the installer, choose:
+Download and install the main file. In the installer, choose the following:
 
+* JK's Angeline's Aromatics
+    * AI Overhaul
+    * Unofficial Skyrim Special Edition Patch
 * JK's Arcadia's Cauldron
     * AI Overhaul SSE
     * Unofficial Skyrim Special Edition Patch
 * JK's Belethor's General Goods
     * AI Overhaul SSE
+* JK's Bits and Pieces
+    * AI Overhaul
+    * Unofficial Skyrim Special Edition Patch
+* JK's Blue Palace
+    * AI Overhaul
+    * Royal Armory
+    * Unofficial Skyrim Special Edition Patch
+    * 3DNPC
 * JK's Dragonreach
     * AI Overhaul SSE
     * Relationship Dialogue Overhaul
 * JK's The Drunken Huntsman
     * Unofficial Skyrim Special Edition Patch
+* JK's Radiant Ramient
+    * 3DNPC
+    * Cloaks
+    * USSEP
 * Jk's Sleeping Giant Inn
     * AI Overhaul SSE
     * Interesting NPCs
@@ -2190,6 +2205,7 @@ Download and install the main file. In the installer, choose:
     * AI Overhaul
     * Skyrim Project Optimization
     * Unofficial Skyrim Special Edition Patch
+    * 3DNPC
 
 ### [JS Dragon Claws - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/23833)
 Install:
