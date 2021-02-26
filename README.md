@@ -1491,6 +1491,23 @@ Hide the following files:
 * textures\armor\briarheart\briarheart.dds
 * textures\armor\briarheart\briarheart_n.dds
 
+### [TK Children SE](https://www.nexusmods.com/skyrimspecialedition/mods/5916)
+Install the main file using the following options:
+
+* Language: English
+* Patch: None
+* Options:
+    * SSS Glitch: No SSS
+    * Babette Eyes: Vampire Eyes
+
+Hide the following files/folders:
+
+* TKChildren.esm
+* TKChildren.esp
+* Textures/Actors
+* Meshes/Actors/character/facegendata
+* Meshes/Actors/character/TKChildren
+
 ### [Vanilla Makeup HD](http://www.nexusmods.com/skyrimspecialedition/mods/24482)
 Recommendation: 2K for all races and update file.
 
