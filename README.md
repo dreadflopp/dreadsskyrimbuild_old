@@ -1556,6 +1556,8 @@ Install esl version
 ### [Eye Normal Map Fix SSE](http://www.nexusmods.com/skyrimspecialedition/mods/5445)
 Install *Eye Normal Map Fix SSE BC7*
 
+### [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230)
+
 ### [Fuz Ro D-oh - Silent Voice](http://www.nexusmods.com/skyrimspecialedition/mods/15109)
 Install main and optional files.
 
