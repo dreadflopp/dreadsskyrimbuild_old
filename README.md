@@ -1040,7 +1040,10 @@ Recommendation: 2K alt
 ### [Improved closefaced helmets (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/824)
 
 ### [Improved Sparks](http://www.nexusmods.com/skyrimspecialedition/mods/19831)
-Recommendation: Grindstones - 10X Sparks and Impact Effects - Vanilla Sparks
+Recommendation download and install two files: 
+
+* Grindstones - 10X Sparks
+* Impact Effects - Vanilla Sparks
 
 ### [Improved Weapon Impact EFFECTS Correct Metal SE](http://www.nexusmods.com/skyrimspecialedition/mods/8936)
 
