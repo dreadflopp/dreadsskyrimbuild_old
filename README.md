@@ -1851,8 +1851,6 @@ In the installer, choose:
     * No
 * Have you installed the mod Customizable UI Replacer
     * No
-* Font choice
-    * Vanilla Font
 * Colored map markers
     * Default
 * Do you wish for enemies to be visible in the compass?
