@@ -1603,6 +1603,8 @@ Choose ESM version
 
 ### [SkyUI SE - Flashing Savegames Fix](http://www.nexusmods.com/skyrimspecialedition/mods/20406)
 
+### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
+
 ### [SSE Engine Fixes (skse64 plugin)](http://www.nexusmods.com/skyrimspecialedition/mods/17230)
 
 1. Download and install *(Part 1) Engine*
