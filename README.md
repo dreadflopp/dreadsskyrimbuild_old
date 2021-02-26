@@ -501,6 +501,16 @@ Download and install all Main Files. Merge when asked.
 ### [Skyrim Particle Patch for ENB](https://drive.google.com/open?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw)
 Download and install the Special Edition PARTICLE PATCH ALL-IN-ONE INSTALLATION file. Do not install the plugin, it is not needed.
 
+### [DynDOLOD Resources](https://www.nexusmods.com/skyrim/mods/59721?)
+
+Download and install *DynDOLOD Resources SE*. Install using the following options:
+
+* Whiterun Exterior
+* Solitude Exterior
+* High Hrothgar Window Glow
+* DLC2 Vvardenfell 3D Plume
+* Desync Birds of Prey
+
 ### [Static Mesh Improvement Mod](http://www.nexusmods.com/skyrimspecialedition/mods/659)
 Choose custom install in the installer and choose the following:
 
@@ -565,16 +575,6 @@ Choose custom install in the installer and choose the following:
 Install the main file.
 
 ### [Cathedral - Plants](http://www.nexusmods.com/skyrimspecialedition/mods/26104)
-
-### [DynDOLOD Resources](https://www.nexusmods.com/skyrim/mods/59721?)
-
-Download and install *DynDOLOD Resources SE*. Install using the following options:
-
-* Whiterun Exterior
-* Solitude Exterior
-* High Hrothgar Window Glow
-* DLC2 Vvardenfell 3D Plume
-* Desync Birds of Prey
 
 ### [Skyrim Realistic Overhaul](http://www.moddb.com/mods/skyrim-realistic-overhaul)
 
