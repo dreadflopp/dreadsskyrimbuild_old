@@ -1590,11 +1590,10 @@ Choose ESM version
 1. Download and install *(Part 1) Engine*
 1. Download *(Part 2) Engine Fixes - skse64 Preloader and TBB Lib*.
 1. Extract the contents of the second archive to the root Skyrim SE directory (i.e. ..\Steam\SteamApps\Common\Skyrim Special Edition\) 
-Once installed open and ensure the *EngineFixes.toml* file is configured:
+Once installed open *EngineFixes.toml* change the following value:
 
 ```
 [Patches]
-RegularQuicksaves = true
 WaterflowSpeed = 16.0
 ```
 
