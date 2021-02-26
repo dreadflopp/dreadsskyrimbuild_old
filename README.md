@@ -2065,6 +2065,8 @@ Install the main file and the Clockwork patch.
 
 ### [Immersive Dawnguard Dayspring Pass SE](http://www.nexusmods.com/skyrimspecialedition/mods/4126)
 
+### [JK's Angeline's Aromatics](https://www.nexusmods.com/skyrimspecialedition/mods/44482)
+
 ### [JK's Arcadia's Cauldron](https://www.nexusmods.com/skyrimspecialedition/mods/33565)
 
 ### [JK's The Bannered Mare.](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
@@ -2072,9 +2074,17 @@ Install the main file and *JK's The Bannered Mare - Skyrim Project Optimization 
 
 ### [JK's Belethor's General Goods.](https://www.nexusmods.com/skyrimspecialedition/mods/33636)
 
+### [JK's Bits and Pieces](https://www.nexusmods.com/skyrimspecialedition/mods/44642)
+
+### [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324)
+
+### [JK's Candlehearth Hall](https://www.nexusmods.com/skyrimspecialedition/mods/45617)
+
 ### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
 
 ### [JK's The Drunken Huntsman.](https://www.nexusmods.com/skyrimspecialedition/mods/33783)
+
+### [JK's Radiant Raiment](https://www.nexusmods.com/skyrimspecialedition/mods/44858)
 
 ### [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)
 Install main file and the following patches:
