@@ -603,7 +603,7 @@ Recommendation: 2K
 
 ### [Unofficial Material Fix](http://www.nexusmods.com/skyrimspecialedition/mods/21027)
 
-## Audiovisual - Animations & Effects
+## Animations & Effects
 
 ### [360 Walk and Run Plus](https://www.nexusmods.com/skyrimspecialedition/mods/7446)
 In the installer, choose:
@@ -665,7 +665,7 @@ Install the main file using the following options:
 * Compatibility Patches
 	* Choose none or nothing for all
 
-## Audiovisual - Models & Textures
+## Models & Textures
 
 ### [Arctic - Frost Effects Redux](http://www.nexusmods.com/skyrimspecialedition/mods/29817)
 
