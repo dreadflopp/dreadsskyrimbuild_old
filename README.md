@@ -1450,6 +1450,18 @@ The mod is not packaged correctly for mod managers. To install:
 
 ### [Salt and Wind – Rough Hair for KS Hairdos SE](http://www.nexusmods.com/skyrimspecialedition/mods/16582)
 
+### [Simple Children](https://www.nexusmods.com/skyrimspecialedition/mods/22789)
+Install the main file with the deafault options.
+
+After installing this mod, users will have to clean it, as it contains an old USSEP forward that will result in freezes if left in.
+
+1. Load the FacegenForKids.esp using xEdit.
+1. Locate record: 00014132 and select it.
+1. Scroll down until Packages(aligned) is found.
+1. For the FacegenForKids column, there will be one package listed here that reads < Error: Could not be resolved >.
+1. Right-click on this listing and select Remove.
+1. Close xEdit, saving the edited plugin.
+
 ### [Superior Lore-Friendly Hair (SE)](http://www.nexusmods.com/skyrim/mods/36510)
 Recommendation: Rough hair, 1K
 
