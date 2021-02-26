@@ -1542,14 +1542,14 @@ In the installer, choose the following:
 
 ### [1st Person Candlelight Fix](http://www.nexusmods.com/skyrimspecialedition/mods/9736)
 
+### [Archery Quick Shot Perk Bug Fix](Archery Quick Shot Perk Bug Fix)
+
 ### [Bug Fixes SSE](http://www.nexusmods.com/skyrimspecialedition/mods/33261)
 
 ### [Butterflies Land True](http://www.nexusmods.com/skyrimspecialedition/mods/29434)
 
 ### [Butterflies Unchained](http://www.nexusmods.com/skyrimspecialedition/mods/29538)
 Install esl version
-
-### [Dragon Stalking Fix](http://www.nexusmods.com/skyrimspecialedition/mods/14060)
 
 ### [Enchantment Reload Fix SE](http://www.nexusmods.com/skyrimspecialedition/mods/21055)
 
