@@ -1998,7 +1998,7 @@ Install main file and patches for *Moon and Star* and *Moonpath to Elsweyr*.
 ### [Nether's Follower Framework](http://www.nexusmods.com/skyrimspecialedition/mods/18076)
 Choose the default settings in the installer.
 
-## Audiovisual - Lighting & Weather
+## Lighting & Weather
 
 ### [Cathedral Weathers and Seasons](http://www.nexusmods.com/skyrimspecialedition/mods/24791)
 Install the main file.
