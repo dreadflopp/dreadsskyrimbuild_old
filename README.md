@@ -491,7 +491,7 @@ Only the Main File is required.
 
 ### [SkyUI](http://www.nexusmods.com/skyrimspecialedition/mods/12604)
 
-## Foundational Mods
+## Foundation
 
 ### [Unofficial High Definition Audio Project](http://www.nexusmods.com/skyrimspecialedition/mods/18115)
 Download and install all Main Files. Merge when asked. 
