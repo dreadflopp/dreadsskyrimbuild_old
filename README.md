@@ -1307,7 +1307,7 @@ Recommendation: *Realistic Wolf Howls more barks than howls*
 
 ### [Ultra Realistic Crossbow Shoot Sounds](https://www.nexusmods.com/skyrim/mods/31274)
 
-## Audiovisual - Creature Skeleton
+## Creature Skeleton
 
 ### [Absolute Arachnophobia](https://www.nexusmods.com/skyrimspecialedition/mods/24058)
 
@@ -1443,12 +1443,10 @@ The mod is not packaged correctly for mod managers. To install:
 ### [KS Hairdos SSE](http://www.nexusmods.com/skyrimspecialedition/mods/6817)
 
 ### [More Realistic Hair (SE)](http://www.nexusmods.com/skyrim/mods/3397)
+
 ### [Natural Eyes SSE](http://www.nexusmods.com/skyrimspecialedition/mods/10099)
 
 ### [Northborn Scars (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/720)
-
-### [RUSTIC CHILDREN (SE)](http://www.nexusmods.com/skyrim/mods/63353)
-Recommendation: 2K
 
 ### [Salt and Wind – Rough Hair for KS Hairdos SE](http://www.nexusmods.com/skyrimspecialedition/mods/16582)
 
