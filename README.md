@@ -833,6 +833,11 @@ Recommendation: 2K
 ### [DRAGON PRIEST](http://www.nexusmods.com/skyrimspecialedition/mods/4974)
 Recommendation: 2K full option
 
+### [Frankly HD Dragonbone and Dragonscale - Armor and Weapons HQ](https://www.nexusmods.com/skyrimspecialedition/mods/25110)
+Recommendation: 2K
+
+Install both main and update file. 
+
 ### [Dragonbone Mastery - Weapons Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/2056)
 Use with or without engravings and install with the following recommended options:
 
@@ -929,11 +934,6 @@ Install with the following options:
 Recommendation: 2K
 
 Install the CBBE patch.
-
-### [Frankly HD Dragonbone and Dragonscale - Armor and Weapons HQ](https://www.nexusmods.com/skyrimspecialedition/mods/25110)
-Recommendation: 2K
-
-Install both main and update file. 
 
 ### [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848)
 Recommendation: 2K
