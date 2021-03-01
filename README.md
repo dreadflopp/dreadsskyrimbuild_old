@@ -1199,7 +1199,7 @@ Recommendation: 2K
 Recommendation: 1K
 
 ### [RUSTIC DAEDRA - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/19272)
-Recommendation: 2K
+Recommendation: 2K vanilla
 
 ### [RUSTIC DEATH HOUND and GARGOYLE - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/17740)
 Recommendation: 2K
