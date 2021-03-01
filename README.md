@@ -736,6 +736,10 @@ Install the main file using the following options:
 * Style: Standard
 * Plugin option: Frost mesh patch (esl-tagged)
 
+### [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704)
+
+Download and install the main file, the update file and the *Blades Helmet - aMidianBorn Patch* optional file.
+
 ### [Arri's Snow Elf Ruins Retexture Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/7292)
 
 ### [Barenziah's Glory SE](http://www.nexusmods.com/skyrimspecialedition/mods/6343)
