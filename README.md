@@ -1219,6 +1219,19 @@ Recommendation: 2K
 ### [RUSTIC NORDIC MURALS](http://www.nexusmods.com/skyrim/mods/65602)
 Recommendation: 2K-1K
 
+### [RUSTIC RELIEFS](https://www.nexusmods.com/skyrimspecialedition/mods/34684)
+Hide the following files/folders:
+
+* textures\architecture\windhelm\500wall.dds
+* textures\architecture\windhelm\500wall_n.dds
+* textures\clutter\birthsign*.dds (disable all of these, 39 files)
+* textures\dungeons\nordic (entire folder)
+* textures\dungeons\mossdirtpile01.dds
+* textures\dungeons\mossdirtpile01_n.dds
+* textures\dungeons\ridgedstone*.dds (disable all of these, 6 files)
+* textures\dungeons\scrollworktrim01.dds
+* textures\dungeons\scrollworktrim01_n.dds
+
 ### [RUSTIC SOULGEMS - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/5785)
 Install *RUSTIC SOULGEMS - Special Edition - FOMOD - English Only*.
 
