@@ -828,9 +828,6 @@ Recommendation: 1K
 ### [Designs of the Nords SE](https://www.nexusmods.com/skyrimspecialedition/mods/8724/)
 In the installer, install optionals if that is desired.
 
-### [Dragon Glyphs HD - Fixed](http://www.nexusmods.com/skyrim/mods/27095)
-Recommendation: Dragon Chiseled
-
 ### [Dragon Masks Retextured SE (4K - 2K)](http://www.nexusmods.com/skyrimspecialedition/mods/22699)
 Recommendation: 2K
 
