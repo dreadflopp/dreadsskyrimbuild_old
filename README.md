@@ -907,29 +907,6 @@ Recommendation: 2K
 ### [RUSTIC ARMOR and WEAPONS SE](http://www.nexusmods.com/skyrimspecialedition/mods/19666)
 Recommendation: 2K
 
-### [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017)
-Install with the following options:
-
-* All or Custom: Install everything
-* Sheath Options:
-    * Onehanded sheats
-    * Greatsword Sheats
-* Variants and Patches
-    * FrankFamily HD Imperial Armor and Weapons
-    * Keening with refraction
-* Glass
-    * Refractive Glass Weapons
-* Stalhrim
-    * Stalhrim with Refraction
-* Dawnbreaker Sheath
-    * Dawnbreaker Sheath Elf
-* Dawnbreaker ENB
-    * Choose if you use ENB or not
-* Dragonbone Options
-    * DragonBoring Weapons
-* Dual Sheath
-    * No Dual Sheath
-
 ### [Masque of Argonian Vile SSE](https://www.nexusmods.com/skyrimspecialedition/mods/26908)
         
 ### [Frankly HD Dawnguard Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/19663)
@@ -1087,6 +1064,29 @@ Recommended install options:
 Recommendation: 2K
 
 ### [LeanWolf's Improved Enchanter Candle Meshes SE](http://www.nexusmods.com/skyrimspecialedition/mods/7883)
+
+### [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017)
+Install with the following options:
+
+* All or Custom: Install everything
+* Sheath Options:
+    * Onehanded sheats
+    * Greatsword Sheats
+* Variants and Patches
+    * FrankFamily HD Imperial Armor and Weapons
+    * Keening with refraction
+* Glass
+    * Refractive Glass Weapons
+* Stalhrim
+    * Stalhrim with Refraction
+* Dawnbreaker Sheath
+    * Dawnbreaker Sheath Elf
+* Dawnbreaker ENB
+    * Choose if you use ENB or not
+* Dragonbone Options
+    * DragonBoring Weapons
+* Dual Sheath
+    * No Dual Sheath
 
 ### [Luminous Atronachs](http://www.nexusmods.com/skyrimspecialedition/mods/27732)
 Install Luminous Atronachs - ESPLite.
