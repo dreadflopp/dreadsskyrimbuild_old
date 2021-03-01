@@ -1276,6 +1276,9 @@ Choose the 2k versions of textures, big and small stars. Hide or delete all file
 ### [Stalhrim](http://www.nexusmods.com/skyrimspecialedition/mods/9447)
 Recommendation: 2K
 
+### [Superior Chaurus - 4k Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/35708)
+In the installer, choose 2K normal maps.
+
 ### [Sweet Mother - The Night Mother Improvement](http://www.nexusmods.com/skyrim/mods/4947)
 Recommendation: Sweet Mother HD
 
