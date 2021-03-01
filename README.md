@@ -902,6 +902,8 @@ The vivid version is recommended
 ### [FALMER](http://www.nexusmods.com/skyrimspecialedition/mods/17224)
 Recommendation: 2K
 
+### [Fire Halo Remover](https://www.nexusmods.com/skyrimspecialedition/mods/28381)
+
 ### [RUSTIC ARMOR and WEAPONS SE](http://www.nexusmods.com/skyrimspecialedition/mods/19666)
 Recommendation: 2K
 
