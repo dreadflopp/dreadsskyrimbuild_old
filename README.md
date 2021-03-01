@@ -1279,6 +1279,9 @@ Recommendation: 2K
 ### [Superior Chaurus - 4k Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/35708)
 In the installer, choose 2K normal maps.
 
+### [Superior Mudcrab - 4k Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/35882)
+Choose the main and the update file. In the installer, choose 2K normal maps.
+
 ### [Sweet Mother - The Night Mother Improvement](http://www.nexusmods.com/skyrim/mods/4947)
 Recommendation: Sweet Mother HD
 
