@@ -669,16 +669,6 @@ Install the main file using the following options:
 
 ### [Alpine Forest of Whiterun Valley](https://www.nexusmods.com/skyrimspecialedition/mods/18866)
 
-### [Arctic - Frost Effects Redux](http://www.nexusmods.com/skyrimspecialedition/mods/29817)
-
-Install the main file using the following options:
-
-* Resolution: Lite
-* Color: Realistic hue
-* Size: x.5
-* Style: Standard
-* Plugin option: Frost mesh patch (esl-tagged)
-
 ### [aMidianBorn Book of Silence SE](https://www.nexusmods.com/skyrimspecialedition/mods/35382)
 
 Download and install the optional files:
@@ -735,6 +725,16 @@ Download and install the optional files:
 * aMidianborn_Skyforge_Weapons.esp
 
 ### [aMidianBorn stormcloak officer armour](https://www.nexusmods.com/skyrim/mods/45692)
+
+### [Arctic - Frost Effects Redux](http://www.nexusmods.com/skyrimspecialedition/mods/29817)
+
+Install the main file using the following options:
+
+* Resolution: Lite
+* Color: Realistic hue
+* Size: x.5
+* Style: Standard
+* Plugin option: Frost mesh patch (esl-tagged)
 
 ### [Arri's Snow Elf Ruins Retexture Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/7292)
 
