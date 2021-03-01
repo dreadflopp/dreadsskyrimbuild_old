@@ -1216,9 +1216,6 @@ Recommendation: 2K
 ### [RUSTIC FROSTBITE SPIDER - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/18817)
 Recommendation: 2K
 
-### [RUSTIC NORDIC MURALS](http://www.nexusmods.com/skyrim/mods/65602)
-Recommendation: 2K-1K
-
 ### [RUSTIC RELIEFS](https://www.nexusmods.com/skyrimspecialedition/mods/34684)
 Hide the following files/folders:
 
