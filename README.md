@@ -1207,6 +1207,9 @@ Recommendation: 2K
 ### [RUSTIC DRAGON CORPSE - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/17639)
 Recommendation: 2K
 
+### [RUSTIC DRAGONS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/37700)
+Recommendation: Reduced
+
 ### [RUSTIC ELDERSCROLL - Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/17757)
 Recommendation: 2K
 
