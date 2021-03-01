@@ -813,7 +813,6 @@ Choose whatever options you like, desaturated books are recommended.
 Recommendation: 1K
 
 ### [Deadly Spell Impacts (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/12939)
-
 Recommended install options:
 
 * Options: Custom
@@ -833,6 +832,14 @@ Recommendation: 2K
 
 ### [DRAGON PRIEST](http://www.nexusmods.com/skyrimspecialedition/mods/4974)
 Recommendation: 2K full option
+
+### [Dragonbone Mastery - Weapons Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/2056)
+Use with or without engravings and install with the following recommended options:
+
+* Main weapon textures: Darker bone
+* Arrow options: New style arrows
+* Scabbard style: Shorter scabbard
+* Short scabbard texture options: Plain scabbard
 
 ### [DRAUGR](http://www.nexusmods.com/skyrimspecialedition/mods/5848)
 Recommendation: 2K
