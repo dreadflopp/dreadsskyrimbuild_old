@@ -790,8 +790,6 @@ Recommended install options:
 	* Werewolf: Dark Grey
 	* Werewolf Eyes: Normal Brown
 
-### [Bellyaches HD Dragon Replacer Pack (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/2636)
-
 ### [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306)
 
 ### [Better Dynamic Ash SE](http://www.nexusmods.com/skyrimspecialedition/mods/14644)
