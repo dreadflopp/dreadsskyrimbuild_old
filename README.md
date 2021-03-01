@@ -778,7 +778,7 @@ Recommended install options:
 
 * More Custom Options
 	* Mammoth: None
-	* Mudcrab: Grey
+	* Mudcrab: None
 	* Rabbit: Rabbit Replacer
 	* Sabre Cat (Brown): None
 	* Sabre Cat (Arctic): None
