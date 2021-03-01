@@ -1063,8 +1063,6 @@ Recommended install options:
 ### [Just Ice (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/9444)
 Recommendation: 2K
 
-### [LeanWolf's Improved Enchanter Candle Meshes SE](http://www.nexusmods.com/skyrimspecialedition/mods/7883)
-
 ### [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017)
 Install with the following options:
 
@@ -1088,6 +1086,8 @@ Install with the following options:
 * Dual Sheath
     * No Dual Sheath
 
+### [LeanWolf's Improved Enchanter Candle Meshes SE](http://www.nexusmods.com/skyrimspecialedition/mods/7883)
+
 ### [Luminous Atronachs](http://www.nexusmods.com/skyrimspecialedition/mods/27732)
 Install Luminous Atronachs - ESPLite.
 
@@ -1102,6 +1102,9 @@ Recommendation: 2K
 
 ### [New Thinner Torch](http://www.nexusmods.com/skyrim/mods/6950)
 Download and install the Ultimate HD Torch by rheadude compatible file. 
+
+### [Northfire's Skidmarks SE](https://www.nexusmods.com/skyrimspecialedition/mods/44149)
+Recommendation: 2K
 
 ### [Not Really HD Display Case](http://www.nexusmods.com/skyrim/mods/3693)
 
@@ -1183,6 +1186,8 @@ Choose *Install Everything* in the installer. Hide or delete the following files
 
 ### [JS Dragon Claws SE](https://www.nexusmods.com/skyrimspecialedition/mods/1394)
 Recommendation: 2K
+
+### [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485)
 
 ### [RUSTIC ANIMATED POTIONS and POISONS](http://www.nexusmods.com/skyrimspecialedition/mods/2276)
 Recommendation: 1K
