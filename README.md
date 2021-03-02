@@ -1683,6 +1683,8 @@ Choose *Realistic AI Detection 2 SE - Lite*
 
 ### [Tavern AI fix](http://www.nexusmods.com/skyrimspecialedition/mods/23107)
 
+### [Unequip Quiver SE](https://www.nexusmods.com/skyrimspecialedition/mods/44031)
+
 ## Gameplay - Camping & Survival
 The user can choose to use the offical Creation Club Survival Mode or the minimalistic mod The Frozen North.
 
