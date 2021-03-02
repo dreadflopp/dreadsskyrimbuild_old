@@ -2050,8 +2050,6 @@ In the installer, choose *Skyrim Special Edition* and the latest game version. C
 ### [Bells of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10495)
 In the installer, choose to install the JK's Skyrim patch.
 
-### [Northern Marsh Bridges](https://www.nexusmods.com/skyrimspecialedition/mods/9107/)
-
 ### [Solitude Skyway](http://www.nexusmods.com/skyrimspecialedition/mods/8250)
 
 ### [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329)
