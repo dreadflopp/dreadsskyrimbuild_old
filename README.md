@@ -1859,15 +1859,10 @@ If this mod is updated midgame from 3.x to 4.x, use [Ish's Respec Mod](https://w
 
 ## User Interface
 
-### [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
-Install *8.4 A Quality World Map - Classic with Main Roads Only*. This version is the only one that is properly converted from Skyrim LE.
-
 ### [Better Container Controls for SkyUI](http://www.nexusmods.com/skyrimspecialedition/mods/25271)
 Do not install the main file, install the esl optional file only. If you play with a gamepad, skip this mod completely.
 
 ### [Better Dialogue Controls](http://www.nexusmods.com/skyrimspecialedition/mods/1429)
-
-### [Better Falskaar and Wyrmstooth Map With Roads](https://www.nexusmods.com/skyrim/mods/51339)
 
 ### [Better MessageBox Controls](http://www.nexusmods.com/skyrimspecialedition/mods/1428)
 
@@ -2278,8 +2273,6 @@ Install:
 ### [kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518)
 Install *Book Covers Skyrim __ TCIY* and *Cutting Room Floor __ TCIY*.
 
-### [Luminosity - A Quality Worldmap Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/30162)
-
 ### [Moonpath to Elsweyr Sky and Lightning fix](http://www.nexusmods.com/skyrimspecialedition/mods/18683)
 Download and install *Moonpath Sky and Lighting fix - main file*
 
@@ -2452,19 +2445,6 @@ Make sure that all LOD Generation texture mods are activated and that the load o
 1. Once the LOD generation complete message has appeared, close xLODGen.
 
 The generated files needs to be manually moved to the output folder. Cut and paste the files from the LOD generation output folder(... \Modding\Tools\xLODGen\xLODGen_Output\) to the empty mod folder *xLODGen_Output*.
-
-Some files needs to be deleted to solve a conflict with *Better Falskaar and Wyrmstooth Map With Roads*. This conflict can also be solved by moving the mod *Better Falskaar and Wyrmstooth Map With Roads*, placing it after *xLODGen_Output*.
-
-Delete the following files to solve the conflict:
-
-```
-xLODGen_Output\textures\terrain\wyrmstoothworld\wyrmstoothworld.32.-32.-32.dds
-xLODGen_Output\textures\terrain\wyrmstoothworld\wyrmstoothworld.32.-32.0.dds
-xLODGen_Output\textures\terrain\wyrmstoothworld\wyrmstoothworld.32.0.-32.dds
-xLODGen_Output\textures\terrain\wyrmstoothworld\wyrmstoothworld.32.0.0.dds
-xLODGen_Output\textures\terrain\falskaar\falskaar.32.-32.-32.dds
-xLODGen_Output\textures\terrain\falskaar\falskaar.32.0.-32.dds
-```
 
 Deactivate the following mods:
 
