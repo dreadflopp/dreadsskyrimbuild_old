@@ -1866,8 +1866,6 @@ Do not install the main file, install the esl optional file only. If you play wi
 
 ### [Better MessageBox Controls](http://www.nexusmods.com/skyrimspecialedition/mods/1428)
 
-### [Cathedral Weathers MCM](http://www.nexusmods.com/skyrimspecialedition/mods/24940)
-
 ### [Easy Wheelmenu - SSE Conversion](https://www.nexusmods.com/skyrimspecialedition/mods/22934)
 
 ### [Easy Wheelmenu for Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/27534)
@@ -2031,6 +2029,8 @@ Choose the default settings in the installer.
 ### [Cathedral Weathers and Seasons](http://www.nexusmods.com/skyrimspecialedition/mods/24791)
 Install the main file.
 
+### [Cathedral Weathers MCM](http://www.nexusmods.com/skyrimspecialedition/mods/24940)
+
 ### [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830)
 
 ### [Obsidian Mountain Fogs](https://www.nexusmods.com/skyrimspecialedition/mods/13539)
@@ -2157,6 +2157,10 @@ Install patches forInstall main file and patches for:
 * Moon And Star
 * JK's Skyrim - Towns
 * Patches for Arthmoor's Town add-ons - everything except *Provincial Courier Service*
+
+### [Oblivion Gates Remade](https://www.nexusmods.com/skyrimspecialedition/mods/9040)
+
+In the installer, choose *map markers* and *Mountain-Like Textures for MAJESTIC MOUNTAINS*. 
 
 ### [Smooth Shores](http://www.nexusmods.com/skyrimspecialedition/mods/10624)
 
