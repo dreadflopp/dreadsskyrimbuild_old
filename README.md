@@ -1568,7 +1568,6 @@ In the installer, choose the following:
 	* None
 
 ## Fixes
-### [(SKSE64) Havok Fix](http://www.nexusmods.com/skyrimspecialedition/mods/18160)
 
 ### [1st Person Candlelight Fix](http://www.nexusmods.com/skyrimspecialedition/mods/9736)
 
