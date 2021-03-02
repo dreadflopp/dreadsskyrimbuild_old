@@ -1835,6 +1835,8 @@ Choose *Option 1* in the installer (suggestion)
 
 ### [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
 
+### [Thieves Guild Requirements SE](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
+
 ### [The Paarthurnax Dilemma](http://www.nexusmods.com/skyrimspecialedition/mods/365)
 
 ### [Timing is Everything SE](http://www.nexusmods.com/skyrimspecialedition/mods/25464)
