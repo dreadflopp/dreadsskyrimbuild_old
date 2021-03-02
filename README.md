@@ -1654,9 +1654,6 @@ Leave the remainder of the settings at their defaults, unless the changes are kn
 
 ### [Waterbreathing Breathless Emerge SSE](http://www.nexusmods.com/skyrimspecialedition/mods/14485)
 
-### [Wiseman303's Critter Fixes (SE)](http://www.nexusmods.com/skyrim/mods/54485)
-In the installer, choose *Monarch Wing Fix*.
-
 ### [Wiseman303's Flora Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/28197)
 Install the main file and the patch for SMIM.
 
