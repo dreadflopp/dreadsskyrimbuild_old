@@ -1816,6 +1816,8 @@ Install the main file
 
 ### [Helgen Reborn](http://www.nexusmods.com/skyrimspecialedition/mods/5673)
 
+### [Here We Go Again - World Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/37207)
+
 ### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184)
 
 ### [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300)
