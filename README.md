@@ -1418,12 +1418,14 @@ Install *Tyrannical Trolls (Vanilla Size)*
 ### [Wicked Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/31757)
 Install *Wicked Werewolves SE XP32*.
 
-## Character Appearance - Female body
+## Character Appearance
 
-*This section replaces the vanilla female body with the CBBE body. The CBBE body is chosen because of its versatility. Recommended presets makes the body look realistic or vanilla-ish.*
+### [Argonian Improvements SSE - Horns](https://www.nexusmods.com/skyrimspecialedition/mods/6104)
 
 ### [Caliente’s Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198)
 *NSFW warning*
+
+The CBBE body is chosen because of its versatility. Recommended presets makes the body look realistic or vanilla-ish.*
 
 Install the main file and the optional file ‘CBBE ESL-flagged .esp’.
 
@@ -1438,10 +1440,6 @@ In the main installer, choose:
 *NSFW warning*
 
 Install the main file
-
-## Character Appearance - Face Parts, textures and overhauls
-
-### [Argonian Improvements SSE - Horns](https://www.nexusmods.com/skyrimspecialedition/mods/6104)
 
 ### [Beards](http://www.nexusmods.com/skyrimspecialedition/mods/1067)
 Choose *Full Install* and *Low: 1024*
