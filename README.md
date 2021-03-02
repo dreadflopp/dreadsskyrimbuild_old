@@ -2050,6 +2050,10 @@ In the installer, choose *Skyrim Special Edition* and the latest game version. C
 ### [Bells of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10495)
 In the installer, choose to install the JK's Skyrim patch.
 
+### [Oblivion Gates Remade](https://www.nexusmods.com/skyrimspecialedition/mods/9040)
+
+In the installer, choose *map markers* and *Mountain-Like Textures for MAJESTIC MOUNTAINS*. 
+
 ### [Solitude Skyway](http://www.nexusmods.com/skyrimspecialedition/mods/8250)
 
 ### [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329)
@@ -2157,10 +2161,6 @@ Install patches forInstall main file and patches for:
 * Moon And Star
 * JK's Skyrim - Towns
 * Patches for Arthmoor's Town add-ons - everything except *Provincial Courier Service*
-
-### [Oblivion Gates Remade](https://www.nexusmods.com/skyrimspecialedition/mods/9040)
-
-In the installer, choose *map markers* and *Mountain-Like Textures for MAJESTIC MOUNTAINS*. 
 
 ### [Smooth Shores](http://www.nexusmods.com/skyrimspecialedition/mods/10624)
 
