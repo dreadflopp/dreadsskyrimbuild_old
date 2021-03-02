@@ -2111,6 +2111,8 @@ Install the main file and the Clockwork patch.
 
 ### [Castle Volkihar Rebuilt - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/324)
 
+### [Hearthfire Extended](https://www.nexusmods.com/skyrimspecialedition/mods/8450)
+
 ### [Immersive Dawnguard Dayspring Pass SE](http://www.nexusmods.com/skyrimspecialedition/mods/4126)
 
 ### [JK's Angeline's Aromatics](https://www.nexusmods.com/skyrimspecialedition/mods/44482)
