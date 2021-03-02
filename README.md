@@ -1676,6 +1676,10 @@ Install the main file and the nemesis patch. When installing the nemesis patch, 
 ### [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 Install the main file.
 
+### [Faction Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/24336)
+
+Install the main file, no patches are needed.
+
 ### [Realistic AI Detection SE](http://www.nexusmods.com/skyrimspecialedition/mods/2345)
 Choose *Realistic AI Detection 2 SE - Lite*
 
