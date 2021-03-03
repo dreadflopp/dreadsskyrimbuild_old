@@ -854,6 +854,9 @@ Install *DROPS v3 x512*.
 
 ### [Dust Effects by HHaleyy](http://www.nexusmods.com/skyrimspecialedition/mods/2407)
 
+### [Elemental Staffs SE](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
+Installl the main file and the optional file *Elemental Staffs SE Basic*
+
 ### [ElSopa HD - Ants SE](http://www.nexusmods.com/skyrimspecialedition/mods/26715)
 Recommendation: 1K
 
