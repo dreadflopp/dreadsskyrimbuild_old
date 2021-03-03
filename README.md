@@ -1883,6 +1883,8 @@ Choose the light master version.
 
 ### [RaceMenu](http://www.nexusmods.com/skyrimspecialedition/mods/19080)
 
+### [Simple Werewolf Favourite Howls Menu](https://www.nexusmods.com/skyrimspecialedition/mods/35736)
+
 ### [Smaller Vanilla Cursors SE](http://www.nexusmods.com/skyrimspecialedition/mods/20617)
 
 ### [Undiscovered Means Unknown - Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/9762)
