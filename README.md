@@ -1715,8 +1715,6 @@ Install the main file, the english version.
 ### [Experience](http://www.nexusmods.com/skyrimspecialedition/mods/17751)
 Do not activate this mod yet. Wait until you have left the first cell of Alternate Start to avoid getting experience when different mods do their initial setup routines.
 
-### [Sacrilege - Minimalistic Vampires of Skyrim](http://www.nexusmods.com/skyrimspecialedition/mods/42408)
-
 ## Gameplay - Crafting
 
 ### [Ars Metallica - Smithing Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/321)
