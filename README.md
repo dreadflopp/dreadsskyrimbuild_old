@@ -18,7 +18,7 @@ Visit the [STEP forums](https://stepmodifications.org/forum/topic/14888-dreads-s
 # Introduction
 #### Welcome to Dread's Skyrim Build
 
-This guide is a STEP build based on the [STEP: Core build](https://www.nexusmods.com/skyrimspecialedition/mods/31054). The STEP team has built a base with mods that enhances and fixes Skyrim without breaking the vanilla look and feel. This guides further enhances Skyrim, adds to it and alters elements of it in several ways. 
+This guide is a STEP build based on the [STEP: Skyrim SE Guide](https://stepmodifications.org/wiki/SkyrimSE:1.0.0). The STEP team has built a base with mods that enhances and fixes Skyrim without breaking the vanilla look and feel. This guides further enhances Skyrim, adds to it and alters elements of it in several ways. 
 
 **The mods featured in this build are chosen to be immersive and realistic. Realistic in a fantasy setting means believable. The mods should feel like they expand or enhances vanilla Skyrim, like they could have been there from the beginning.**
 
