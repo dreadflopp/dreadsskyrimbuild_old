@@ -1717,6 +1717,8 @@ Do not activate this mod yet. Wait until you have left the first cell of Alterna
 
 ### [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746)
 
+### [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)
+
 ## Gameplay - Crafting
 
 ### [Ars Metallica - Smithing Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/321)
