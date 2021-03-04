@@ -18,7 +18,7 @@ Visit the [STEP forums](https://stepmodifications.org/forum/topic/14888-dreads-s
 # Introduction
 #### Welcome to Dread's Skyrim Build
 
-This guide is a STEP build based on the [STEP: Core build](https://www.nexusmods.com/skyrimspecialedition/mods/31054). The STEP team has built a base with mods that enhances and fixes Skyrim without breaking the vanilla look and feel. This guides further enhances Skyrim, adds to it and alters elements of it in several ways. 
+This guide is a STEP build based on the [STEP: Skyrim SE Guide](https://stepmodifications.org/wiki/SkyrimSE:1.0.0). The STEP team has built a base with mods that enhances and fixes Skyrim without breaking the vanilla look and feel. This guides further enhances Skyrim, adds to it and alters elements of it in several ways. 
 
 **The mods featured in this build are chosen to be immersive and realistic. Realistic in a fantasy setting means believable. The mods should feel like they expand or enhances vanilla Skyrim, like they could have been there from the beginning.**
 
@@ -853,6 +853,9 @@ Recommendation: 2K
 Install *DROPS v3 x512*.
 
 ### [Dust Effects by HHaleyy](http://www.nexusmods.com/skyrimspecialedition/mods/2407)
+
+### [Elemental Staffs SE](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
+Installl the main file and the optional file *Elemental Staffs SE Basic*
 
 ### [ElSopa HD - Ants SE](http://www.nexusmods.com/skyrimspecialedition/mods/26715)
 Recommendation: 1K
@@ -1715,7 +1718,9 @@ Install the main file, the english version.
 ### [Experience](http://www.nexusmods.com/skyrimspecialedition/mods/17751)
 Do not activate this mod yet. Wait until you have left the first cell of Alternate Start to avoid getting experience when different mods do their initial setup routines.
 
-### [Sacrilege - Minimalistic Vampires of Skyrim](http://www.nexusmods.com/skyrimspecialedition/mods/42408)
+### [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746)
+
+### [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)
 
 ## Gameplay - Crafting
 
@@ -1880,6 +1885,8 @@ Do not install the main file, install the esl optional file only. If you play wi
 Choose the light master version.
 
 ### [RaceMenu](http://www.nexusmods.com/skyrimspecialedition/mods/19080)
+
+### [Simple Werewolf Favourite Howls Menu](https://www.nexusmods.com/skyrimspecialedition/mods/35736)
 
 ### [Smaller Vanilla Cursors SE](http://www.nexusmods.com/skyrimspecialedition/mods/20617)
 
@@ -2457,8 +2464,18 @@ Deactivate the following mods:
 
 1. Run TexGen from the MO2 executable drop-down list.
 1. Keep the default output location and and choose one of the following two options:
-    1. Option 1: Keep the default settings. This is for the average system.
-    1. Option 2: Users who have the a bit more performance room, change the *LOD Texture Size* to *512*. This will result in higher resolution LOD textures. 
+* GPU with VRAM ≤ 4 GB:
+    * LOD Texture Size = 512
+    * Diffuse Alpha = BC3
+    * Normal Specular = BC7 Max
+    * Diffuse = BC1
+    * Normal = BC7 Max
+* GPU with VRAM > 4 GB:
+    * LOD Texture Size = 1024
+    * Diffuse Alpha = BC7 Max
+    * Normal Specular = BC7 Quick
+    * Diffuse = BC7 Max
+    * Normal = BC7 Quick
 1. Once the option has been chosen click Start. This will take ~20 minutes. 
 1. Once the completed message has appeared, click *Save & Exit*.
 1. Right click any mod in Mod Organizer 2 and choose *All Mods/Refresh*.
@@ -2480,7 +2497,15 @@ Deactivate the following mods:
     ````
 1. Run DynDOLOD from the MO2 executable drop-down list.
 1. Select all worldspaces except the *Midwood Isle* and *Lastendell* worldspaces.
-1. Ensure the *Candles, FXGlow, Generate static LOD, Windows,* and *High* boxes are checked.
+1. Ensure that the following options are ticked:
+    * Candles
+    * FXGlow
+    * Generate static LOD
+    * Create texture atlas
+    * Generate DynDOLOD
+    * Windows
+    * High
+1. Set **Max tile size** equal to the texture size used for TexGen previously.
 1. Click the *High preset* button
 1. Click *OK* to generate LOD's. This takes ~40 minutes.
 1. Once the completed message has appeared, click Save & Exit.
