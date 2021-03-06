@@ -2525,7 +2525,6 @@ Deactivate the following mods:
 1. Run xLODGen from the MO2 executable drop-down list.
 1. Select everything in Select Worldspace(s).
 1. Ensure only the *Occlusion* box is checked.
-ocess.
 1. Use the following settings:
     * Quality: 3
     * Height: 100
