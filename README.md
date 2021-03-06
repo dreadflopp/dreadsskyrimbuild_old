@@ -2425,7 +2425,7 @@ Nemesis may have generated a new plugin, *FNIS.esp*. Activate it and sort all pl
 1. Wait for SSEEdit to load. It may take a couple of minutes.
 1. Right-click in the tree view on the left side of the window. Choose *Apply Script*.
 1. Choose *Unlimited Bookshelves Patch Generator* and click *ok*.
-1. Anytime the script asks whether a file should be added as a master, click on *ok*".
+1. Anytime the script asks whether a file should be added as a master, click on *yes*".
 1. When the scipt is finished, close SSEEdit and make sure that the new patch is saved.
 
 After closing SSEEdit, the patch will be in Overwrite:
@@ -2470,6 +2470,7 @@ Deactivate the following mods:
     * Normal Specular = BC7 Max
     * Diffuse = BC1
     * Normal = BC7 Max
+
 * GPU with VRAM > 4 GB:
     * LOD Texture Size = 1024
     * Diffuse Alpha = BC7 Max
