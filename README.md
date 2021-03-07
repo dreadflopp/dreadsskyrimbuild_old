@@ -2253,6 +2253,11 @@ Download and install the main file. In the installer, choose the following:
     * Royal Armory
     * Unofficial Skyrim Special Edition Patch
     * 3DNPC
+* JK's Candlehearth Hall
+    * AI Overhaul SSE
+    * Helgen Reborn
+    * Skyrim Project Optimization    
+    * 3DNPC
 * JK's Dragonreach
     * AI Overhaul SSE
     * Relationship Dialogue Overhaul
@@ -2269,6 +2274,7 @@ Download and install the main file. In the installer, choose the following:
 * JK's Winking Skeever
     * AI Overhaul
     * Skyrim Project Optimization
+    * THieves Guild Requirements
     * Unofficial Skyrim Special Edition Patch
     * 3DNPC
 
