@@ -2294,12 +2294,9 @@ Download and install *Moonpath Sky and Lighting fix - main file*
 ### [Realistic Water Two Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/35744)
 Install the following patches:
 
-    * Falskaar Patch
-    * Landscape Fixes for Grass Mods Patch
-    * Luminosity Lighting Overhaul Patch
-    * Oakwood Patch
-    * Telengard Patch
-    * Wyrmstooth Patch
+* Falskaar Patch
+* Landscape Fixes for Grass Mods Patch
+* Wyrmstooth Patch
 
 ### [Unofficial Moonpath to Elsweyr Patch](http://www.nexusmods.com/skyrimspecialedition/mods/15882)
 
