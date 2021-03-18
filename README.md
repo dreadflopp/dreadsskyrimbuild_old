@@ -483,6 +483,9 @@ Download and install the All-in-One Main File.
 ### [FileAccess Interface for Skyrim SE Scripts - FISSES](http://www.nexusmods.com/skyrimspecialedition/mods/13956)
 Only the Main File is required. 
 
+### [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)
+Download and install *JContainers SE*
+
 ### [PapyrusUtil SE - Modders Scripting Utility Functions](http://www.nexusmods.com/skyrimspecialedition/mods/13048)
 
 ### [Scaleform Translation++](http://www.nexusmods.com/skyrimspecialedition/mods/22603)
