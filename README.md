@@ -1735,6 +1735,9 @@ Download the main file and the following optional files:
 * Crafting Skills Revamped - Skyrim Skill Uncapper Patch
 * Potions Restore Over Time
 
+### [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666)
+Download and install the main file and the optional CBBE file.
+
 ## Gameplay - Economy & Item Balance
 
 ### [Trade and Barter](http://www.nexusmods.com/skyrimspecialedition/mods/23081)
