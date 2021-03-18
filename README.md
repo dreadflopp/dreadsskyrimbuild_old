@@ -1754,6 +1754,9 @@ Install the main file and the Growl patch.
 ### [High-Level Loot Rarified](https://www.nexusmods.com/skyrimspecialedition/mods/10821)
 Install the main file. Select everything in the installer.
 
+### [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547)
+Download and install *Hunters Not Bandits for RDO*.
+
 ### [Honed Metal - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12885)
 Install main file and Adamant patch.
 
