@@ -1803,6 +1803,8 @@ Install the main file
 
 ### [Alternate Start - Live Another Life - SSE](http://www.nexusmods.com/skyrimspecialedition/mods/272)	
 
+### [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
+
 ### [The Brotherhood of Old - Open Beta - SSE](http://www.nexusmods.com/skyrimspecialedition/mods/15322)
 
 ### [The Choice is Yours (SE)](http://www.nexusmods.com/skyrimspecialedition/mods/3850)
