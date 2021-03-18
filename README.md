@@ -1846,6 +1846,8 @@ Choose *Option 1* in the installer (suggestion)
 
 ### [The Paarthurnax Dilemma](http://www.nexusmods.com/skyrimspecialedition/mods/365)
 
+### [Radiant Requirements MCM](https://www.nexusmods.com/skyrimspecialedition/mods/45427)
+
 ### [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
 
 ### [Thieves Guild Requirements SE](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
