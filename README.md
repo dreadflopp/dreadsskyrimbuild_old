@@ -2266,6 +2266,7 @@ Download and install the main file. In the installer, choose the following:
     * Royal Armory
     * Unofficial Skyrim Special Edition Patch
     * 3DNPC
+    * JK's Skyrim - Solitude Skyway
 * JK's Candlehearth Hall
     * AI Overhaul SSE
     * Helgen Reborn
