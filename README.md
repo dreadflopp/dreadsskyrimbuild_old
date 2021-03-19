@@ -1748,7 +1748,7 @@ Download and install the main file and the optional CBBE file.
 Install the main file and the Dawnstar by Arthmoor Patch.
 
 ### [Daedric Voices](https://www.nexusmods.com/skyrimspecialedition/mods/32090)
-Install the main file and the Growl patch.
+Install the main file.
 
 ### [Disease Descriptions for the Immersive Adventurer SE](http://www.nexusmods.com/skyrimspecialedition/mods/26992)
 
