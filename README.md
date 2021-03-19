@@ -2603,9 +2603,29 @@ Enable the mod. Under *Special*, enable *Minotaurs* and *Spiders*.
 
 Enable the mod.
 
+### Radiant Requirements
+
+New defaults for *Radiant Requirements* are installed with the guide's patches. If Radiant Requirements are installed mid game, you may need to set the requirement levels yourself in the MCM menu:
+
+    Dragon Lair: 25
+    Draugr Crypt: 10
+    Forsworn Camp: 15
+    Hagraven Nest: 20
+    Vampire Lair: 25
+    Werewolf Lair: 25
+    Dragon Priest Lair: 30
+    Falmer Hive: 20
+    Giant Camp: 25
+    Spriggan Grove: 10
+    Warlock Lair: 15
+
 ### Realistic Water Two
 
 Enable *Blacksmith Forge Water* for *The Fall of Granite Hill, *Kynesgrove* and *Rorikstead*. After Granite Hill has been destroyed, uncheck the option for it.
+
+### Timing is Everything
+
+Under *Extra Options', choose *Load preset* to load the recommended settings installed with the guide's patches.
 
 ### Trade and Barter
 
