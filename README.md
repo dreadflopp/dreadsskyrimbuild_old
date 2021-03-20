@@ -2348,7 +2348,7 @@ Download and install as a normal mod.
 1. Run BodySlide x64 through Mod Organizer
 1. Click *Settings*
 1. Click *Advanced*
-1. Click *Browse* and browse to the *BodySlide _Output* folder.
+1. Click *Browse* to choose the *Output Path* and browse to the *BodySlide _Output* folder.
 1. Click *Select folder*
 1. Click *OK* and close BodySlide
 
@@ -2402,8 +2402,8 @@ Build body and armor meshes using BodySlide following these instructions:
 1. In the preset menu, choose what suits you. The preset you choose should end with the word ‘outfit’. I recommended the presets *Pear (outfit), Natural (outfit), CBBE Slim (outfit), UNP Natural (outfit), Thief (outfit)* or *Warrior (outfit)*.
 1. Tick the checkbox *Build Morphs*.
 1. Click the button *Build* to build the body.
-1. Click on the spyglass at the field Group filter and choose *Choose groups*.
-1. Check the following and click ok: *Black Sacrament, CBBE vanilla outfits, Frankly HD, Lustmord, Scout Armor, WTF Wayfare Coat CBBE*.
+1. Click on the spyglass at the field *Group filter* and choose *Choose groups*.
+1. Check the following and click ok: *Black Sacrament, CBBE vanilla outfits, Frankly HD, Lustmord, Scout Armor, WTF Wayfare Coat CBBE, unassigned*.
 1. Click the button *Batch build…*
 1. Click *build* to build armor meshes.
 1. Make sure no physics options are checked. Check all Frankly options. Click *ok* and close BodySlide.
