@@ -2029,6 +2029,7 @@ Install BSA version and the hotfix. Install the following optional files:
 * Interesting NPCs SE - Don't Call Me Dragonborn
 * Interesting NPCs SE - Karthwasten Patch
 * Interesting NPCs SE - Kynesgrove Patch
+* Interesting NPCs SE - AI Overhaul SSE Patch
 
 ### [Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted](http://www.nexusmods.com/skyrimspecialedition/mods/16090)
 
