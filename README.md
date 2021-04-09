@@ -75,37 +75,49 @@ WACCF is a great mod that fixes bugs and inconsistencies among weapons, armors, 
 # Preparations
 #### Game Installation and modding setup
 
-Follow the [system setup guide](https://wiki.step-project.com/Guide:SystemSetupGuide). The system setup guide ensures that all game files are fresh and prompts you to create a basic modding folder structure to install tools into. This guide uses the folder structure from the system setup guide in its instructions. Users that deviates from the system setup guide needs to be aware of this and adjust the instructions accordingly to their installation and modding paths.
+The following sections will guide you during the base game installation and basic modding tools installations.
+
+## System setup and modding tools
+
+Follow the [system setup guide](https://stepmodifications.org/wiki/Guide:SystemSetupGuide). The system setup guide ensures that all game files are fresh and prompts you to create a basic modding folder structure to install tools into. This guide uses the folder structure from the system setup guide in its instructions. Users that deviates from the system setup guide needs to be aware of this and adjust the instructions accordingly to their installation and modding paths.
 
 **Folder structure**
 ````
 c:\
 └── Modding\
     │
-    ├── Tools\
+    └── Tools\
+    
+...Steam\
     │
-    └── Steam\
+    └──steamapps\
         │
-        └──steamapps\
+        └──common\
             │
-            └──common\
+            └──Skyrim Special Edition\
                 │
-                └──Skyrim Special Edition\
-                    │
-                    └──Data\
+                └──Data\
 
 ````
 
 **Common folders referred to in this guide**
 
 * Tools folder: c:\Modding\Tools\
-* Main game folder: c:\Modding\Steam\Steamapps\common\Skyrim Special Edition
-* Data folder: c:\Modding\Steam\Steamapps\common\Skyrim Special Edition\Data
+* Main game folder: ...\Steam\Steamapps\common\Skyrim Special Edition
+* Data folder: ...\Steam\Steamapps\common\Skyrim Special Edition\Data
 
-# Tools
-#### Tool Installation and setup
+After following the *system setup guide* you will have a clean installation of Skyrim and the following tools installed and configured:
 
-## [Creation Kit](http://download.cdp.bethesda.net/BethesdaNetLauncher_Setup.exe)
+* BethINI
+* DynDOLOD
+* LOOT
+* Mod Organizer
+* xEdit (also xrefered to as *TES5Edit* or *SSEEdit*)
+* xLODGen (also refered to as *TES5LODGen* or *SSELODGen*)
+
+## Additional tools installations and setups
+
+### [Creation Kit](http://download.cdp.bethesda.net/BethesdaNetLauncher_Setup.exe)
 
 The Creation Kit is needed to convert plugins made for Skyrim to work with Skyrim Special Edition. The conversion is very simple and basically just means to open a plugin in the creation kit and re-save it. The link above goes to the Bethesda Launcher install file. Installation of the Creation Kit will be done using the Bethesda Launcher.
 
@@ -135,46 +147,21 @@ bBlockMessageBoxes=1
 SResourceArchiveList2=Skyrim - Voices_en0.bsa, Skyrim - Textures0.bsa, Skyrim - Textures1.bsa, Skyrim - Textures2.bsa, Skyrim - Textures3.bsa, Skyrim - Textures4.bsa, Skyrim - Textures5.bsa, Skyrim - Textures6.bsa, Skyrim - Textures7.bsa, Skyrim - Textures8.bsa, Skyrim - Patch.bsa, Dawnguard.bsa, Hearthfires.bsa, Dragonborn.bsa
 ````
 
-## [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) 
+### [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) 
 Download and extract the contents to the main game folder.
 
-## [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
-Download and extract into its own subfolder of the tools folder. The resources file will be installed later.
-
-## [LOOT](https://github.com/loot/loot/releases)
-Download and install the latest version. In the installer, change the installation path to the tools folder.
-
-## [Microsoft Visual C++ 2017 Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+### [Microsoft Visual C++ 2017 Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 Install *vc_redist.x86.exe* and *vc_redist.x64.exe*.
 
-## [SSEEdit](http://www.nexusmods.com/skyrimspecialedition/mods/164)
-Download extract into its own subfolder of the tools folder.
+### [Unlimited Bookshelves Patch Generator](https://www.nexusmods.com/skyrimspecialedition/mods/19160)
+This is a script for SSEEdit. Unzip the archive and place the content in the SSEEdit script folder (i.e. ..Modding/Tools/xEdit/Scripts/).
 
-## [Unlimited Bookshelves Patch Generator](https://www.nexusmods.com/skyrimspecialedition/mods/19160)
-This is a script for SSEEdit. Unzip the archive and place the content in the SSEEdit script folder (i.e. ..Modding/Tools/SSEEdit/Scripts/).
-
-## [xLodGen](https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/)
+### [xLodGen](https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/)
 Download xLODGen using the download link in the first post. Extract the downloaded archive into its own subfolder of the tools folder.
 
+## Create mod listings for output data
 
-## [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194)
-Download the *archive* version and extract into its own subfolder of the tools folder. Name the subfolder *Mod Organizer 2*.
-
-### Initialization
-
-1. Launch MO2
-1. Upon launch, you  will have a choice between setting it up as portable or create a new Instance. Choose to create a new Instance.
-1. Select SkyrimSE and choose OK.
-    * A prompt will appear informing you about the option of changing the location of data stored. Read it and click past it. 
-1. The installer should automatically detect the Skyrim SE installation (ie. ..Steam\steamapps\common\Skyrim Special Edition). Select it.
-    * If it didn't find the location, browse to to the Skyrim SE installation path. 
-1. Another prompt will appear for first time installers asking to run the tutorial or not. First time MO users should run it for a quick lesson on MO. Experienced MO users can skip it.
-1. The last prompt will ask if MO can handle .NXM links from the browser. Allow it to do so.
-1. MO2 is now set up and ready to use.
-
-### Create mod listings for output data
-
-To prevent output ending up in the overwrite folder, mixing with other files you might want to keep track of, it is advised to create empty mod listings in MO2 for these types of files. 
+To prevent output files generated by tools ending up in Mod Organizer's overwrite folder, thus mixing with other files you might want to keep track of, it is advised to create empty mod listings in Mod Organizer for these types of files. 
 
 Create a separator to keep things tidy:
 
@@ -202,9 +189,9 @@ Repeat the steps, creating the following mod listings:
 
 Some tools can be set to output data to these mod listings while other tools output data will have to be manually moved after each run. 
 
-### Adding executables
+## Adding executables
 
-All tools except BethINI should be launched through MO2. MO2 may have auto-detected some tool but you need to confirm this and manually add the rest of the tools. 
+All tools except BethINI should be launched through Mod Organizer. Mod Organizer may have auto-detected some tools but you need to confirm this and manually add the rest of the tools. 
 
 **Instructions to add tools as executables**
 
@@ -253,29 +240,30 @@ Repeat the steps for the executables listed below, filling in the appropriate da
         * -SSE
         * -o:C:\Modding\Tools\Mod Organizer 2\mods\TextGen_Output
 
-*Note that you need to check that that the paths in the given arguments are valid for your install.*
+{{% pageinfo %}}
+Note that you need to check that that the paths in the given arguments are valid for your install paths.
+{{% /pageinfo %}}
 
-## [BethINI SE](http://www.nexusmods.com/skyrimspecialedition/mods/4875)
-Download extract into its own subfolder of the tools folder.
+## BethINI Setup
+
+BethINI needs to be run for the current profile in Mord Organizer and ran to establish the INI's before beginning the mod installations.
 
 ### Initialization
 
-BethINI needs to be set up to run for the current profile in MO2 and ran to establish solid INI's before beginning the mod installations. To do this:
-
-1. Close MO2 and run BethINI.
+1. Close Mod Organizer and run BethINI.
 1. Select Skyrim Special Edition from the game selection box.
 1. Allow BethINI to handle custom INIs, if prompted.
 1. Go to the Setup tab
-    * Ensure the Game Path is correct (i.e., ..\Modding\Steam\steamapps\common\Skyrim Special Edition).
-    * Ensure the Mod Organizer path is correct (i.e., ..\Modding\Tools\Mod Organizer 2).
-    * If the MO path is correct, the INI Path menu will find the user’s profiles in MO2. Select the profile you use in MO.
+    * Ensure the Game Path is correct (e.g., ..\Modding\Steam\steamapps\common\Skyrim Special Edition).
+    * Ensure the Mod Organizer path is correct (e.g., ..\Modding\Tools\Mod Organizer 2).
+    * If the Mod Organizer path is correct, the INI Path menu will find the user’s profiles in MO2. Select the profile you use in Mod Organizer.
         * If BethINI does not automatically find the profiles, browse to MO2's Profile folder.
         * For Instance users the profile will be stored in the user's AppData folder (i.e. C:\Users\UserName\AppData\Local\ModOrganizer\SkyrimSE\profiles)
 1. At this time BethINI should restart to grab the correct INI's. Continue to customization.
 
 ### Customiztion
 
-Close MO2 and run BethINI if it isn't open already.
+Close Mod Organizer and run BethINI if it isn't open already.
 
 Use the following settings:
 
@@ -307,7 +295,6 @@ Use the following settings:
 * Light Fade: 50000
     
 On the *Basic* tab, click the **Save and Exit** button.
-
 
 # Procedures
 #### Common modding procedures
