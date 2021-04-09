@@ -2159,6 +2159,9 @@ Install main file and the following patches:
 ### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
 Install the main file
 
+### [JK's White Phial](https://www.nexusmods.com/skyrimspecialedition/mods/47713)
+Install the main file
+
 ### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
 Install the main file and the optional file *JK's The Winking Skeever_alterate start mods patch*.
 
