@@ -2246,12 +2246,31 @@ Choose
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 Download and install the main file. In the installer, choose the following:
 
+* Select JKs Interiors
+    * JK's Angeline's Aromatics
+    * JK's Arcadia's Cauldron
+    * JK's Banned Mare
+    * JK's Belethor's General Goods
+    * JK's Bits and Pieces
+    * JK's Blue Palace
+    * JK's Candlehearth Hall
+    * JK's Dragonreach
+    * JK's The Drunken Huntsman
+    * JK's Radiant Ramient
+    * JK's Sadri's Used Wares
+    * Jk's Sleeping Giant Inn
+    * JK's Warmaiden
+    * JK's White Phial
+    * JK's Winking Skeever
+
 * JK's Angeline's Aromatics
     * AI Overhaul
     * Unofficial Skyrim Special Edition Patch
 * JK's Arcadia's Cauldron
     * AI Overhaul SSE
     * Unofficial Skyrim Special Edition Patch
+* JK's Banned Mare
+    * Select nothing
 * JK's Belethor's General Goods
     * AI Overhaul SSE
 * JK's Bits and Pieces
@@ -2277,10 +2296,16 @@ Download and install the main file. In the installer, choose the following:
     * 3DNPC
     * Cloaks
     * USSEP
+* JK's Sadri's Used Wares
+    * 3DNPC
 * Jk's Sleeping Giant Inn
     * AI Overhaul SSE
     * Interesting NPCs
     * Skyrim Project Optimization
+* JK's Warmaiden
+    * Select nothing
+* JK's White Phial
+    * SPO
 * JK's Winking Skeever
     * AI Overhaul
     * Skyrim Project Optimization
