@@ -1629,7 +1629,9 @@ In the installer, choose *NARC* and do not install any patches. All mods, includ
 In the installer, choose:
 
 * Main Files: Main plugin, meshes and scripts
-* Patches: Relighting Skyrim
+* Patches: 
+    * Relighting Skyrim
+    * Landscape Fixes for Grass Mods
 * Walkway Wall FIX: Walkway Wall FIX SMIM
 * Missing Lights Fix 
 
