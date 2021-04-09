@@ -2146,6 +2146,9 @@ Install the main file and *JK's The Bannered Mare - Skyrim Project Optimization 
 
 ### [JK's Radiant Raiment](https://www.nexusmods.com/skyrimspecialedition/mods/44858)
 
+### [JK's Sadris Used Wares](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
+Install the main file
+
 ### [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)
 Install main file and the following patches:
 
