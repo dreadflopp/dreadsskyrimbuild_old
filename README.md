@@ -2142,7 +2142,9 @@ Install the main file and *JK's The Bannered Mare - Skyrim Project Optimization 
 
 ### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
 
-### [JK's The Drunken Huntsman.](https://www.nexusmods.com/skyrimspecialedition/mods/33783)
+### [JK's The Drunken Huntsman](https://www.nexusmods.com/skyrimspecialedition/mods/33783)
+
+### [JK's New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/48293)
 
 ### [JK's Radiant Raiment](https://www.nexusmods.com/skyrimspecialedition/mods/44858)
 
