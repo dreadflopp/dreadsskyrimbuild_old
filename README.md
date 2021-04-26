@@ -2260,6 +2260,8 @@ Download and install the main file. In the installer, choose the following:
     * JK's Candlehearth Hall
     * JK's Dragonreach
     * JK's The Drunken Huntsman
+    * JK's New Gnisis Cornerclub
+    * JK's Palace of the Kings
     * JK's Radiant Ramient
     * JK's Sadri's Used Wares
     * Jk's Sleeping Giant Inn
@@ -2296,6 +2298,12 @@ Download and install the main file. In the installer, choose the following:
     * Relationship Dialogue Overhaul
 * JK's The Drunken Huntsman
     * Unofficial Skyrim Special Edition Patch
+* JK's New Gnisis Cornerclub
+    * 3DNPC
+* JK's Palace of the Kings
+    * Cloaks
+    * Skyrim Project Optimization
+    * USSEP
 * JK's Radiant Ramient
     * 3DNPC
     * Cloaks
