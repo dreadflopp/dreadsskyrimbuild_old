@@ -572,7 +572,7 @@ Install the main file.
 * Install the update file, choosing to merge as well.
 
 ### [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
-Install a main file, choose the version you like the most.
+Install a main file, choose the version you like the most. Install the update file.
 
 **Main installer:**
 
