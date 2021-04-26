@@ -2146,6 +2146,8 @@ Install the main file and *JK's The Bannered Mare - Skyrim Project Optimization 
 
 ### [JK's New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/48293)
 
+### [JK's Palace of the Kings](https://www.nexusmods.com/skyrimspecialedition/mods/48902)
+
 ### [JK's Radiant Raiment](https://www.nexusmods.com/skyrimspecialedition/mods/44858)
 
 ### [JK's Sadris Used Wares](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
