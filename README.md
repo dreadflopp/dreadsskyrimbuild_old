@@ -1114,8 +1114,7 @@ Recommendation: Rallys Instruments HQ - Version 2 Vanilla Lute
 
 
 ### [Rally's Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/34292)
-Install a main file, a LODs file and a Blended Roads patch.
-Recommendation: 2K and 512 for LODs
+In the installer, choose 2K for Raven Rock and 512x512 for LODs.
 
 ### [Rally's Riekling Outposts](https://www.nexusmods.com/skyrimspecialedition/mods/34899)
 Recommendation: 2K
